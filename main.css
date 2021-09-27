@@ -35,6 +35,7 @@ div.login-form input {
     margin: 0;
     border: 0;
     padding: 0;
+    outline: none;
 }
 
 div.login-form form div.email {
@@ -161,6 +162,7 @@ div.login-form div.forgot a:hover {
         margin: 0;
         border: 0;
         padding: 0;
+        outline: none;
     }
 
     div.login-form form div.email {
@@ -288,6 +290,7 @@ div.login-form div.forgot a:hover {
         margin: 0;
         border: 0;
         padding: 0;
+        outline: none;
     }
 
     div.login-form form div.email {
@@ -415,6 +418,7 @@ div.login-form div.forgot a:hover {
         margin: 0;
         border: 0;
         padding: 0;
+        outline: none;
     }
 
     div.login-form form div.email {
@@ -542,6 +546,7 @@ div.login-form div.forgot a:hover {
         margin: 0;
         border: 0;
         padding: 0;
+        outline: none;
     }
 
     div.login-form form div.email {
