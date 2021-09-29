@@ -28,7 +28,7 @@ div.login-form form span.title {
     font-size: 28px;
     position: absolute;
     top: 11.6%;
-    right: 41.2%;
+    right: 41.106667%;
 }
 
 div.login-form input {
@@ -104,7 +104,7 @@ div.login-form div.forgot{
     height: 17px;
     position: absolute;
     top: 83.3%;
-    left: 38%;
+    left: 37.7%;
 }
 
 div.login-form div.forgot a {
@@ -125,511 +125,155 @@ div.login-form div.forgot a:hover {
 
 
 @media (max-width: 768px) {
-    body {
-        background: #3b3bc0;
-        margin: 0;
-        cursor: pointer;
-    }
-
     div.login-form {
-        margin: auto;
-        margin-top: 200px;
-        background: #3916d4;
         width: 400px;
-        height: 300px;
         border: 2.5px solid #1762ee;
-        border-radius: 30px;
-        position: relative;
-    }
-
-    div.login-form form {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        position: relative;
     }
 
     div.login-form form span.title {
-        color: #ffffff;
-        font-weight: bold;
         font-size: 25px;
-        position: absolute;
-        top: 11.6%;
-        right: 40.075%;
-    }
-
-    div.login-form input {
-        margin: 0;
-        border: 0;
-        padding: 0;
-        outline: none;
+        right: 40.0729125%;
     }
 
     div.login-form form div.email {
-        width: 250px;
-        height: 30px;
-        border-radius: 15px;
-        position: absolute;
-        top: 33.6%;
         right: 18.75%;
     }
     
     div.login-form form div.password {
-        width: 250px;
-        height: 30px;
-        border-radius: 15px;
-        position: absolute;
-        top: 46.6%;
         right: 18.75%;
     }
     
     div.login-form form div.login {
-        width: 150px;
-        height: 28px;
-        border-radius: 15px;
-        position: absolute;
-        top: 66.6%;
         left: 31.25%;
     }
 
-    div.login-form form div.email input[type="email"] {
-        width: 240px;
-        height: 30px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.password input[type="password"] {
-        width: 240px;
-        height: 30px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.login input[type="submit"] {
-        width: 150px;
-        height: 28px;
-        background: #3296af;
-        color: #ffffffe5;
-        font-family: sans-serif;
-        border-radius: 15px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.login input[type="submit"]:hover {
-        background: #2ebee2;
-        width: 155px;
-        position: absolute;
-        left: -1.5%;
-        border: 1px solid #66ece6;
-    }
-
     div.login-form div.forgot{
-        width: 123px;
-        height: 17px;
-        position: absolute;
-        top: 83.3%;
         left: 34.625%;
-    }
-
-    div.login-form div.forgot a {
-        display: block;
-        width: 123px;
-        height: 17px;
-        font-size: 14px;
-        font-family: sans-serif;
-        color: #f1f50b;
-        text-decoration: none;
-    }
-    
-    div.login-form div.forgot a:hover {
-        color: #a2a2e6;
-        text-decoration: none;
     }
 }
 
 
 
 @media (max-width: 413px) {
-    body {
-        background: #3b3bc0;
-        margin: 0;
-        cursor: pointer;
-    }
-
     div.login-form {
-        margin: auto;
-        margin-top: 200px;
-        background: #3916d4;
         width: 350px;
         height: 280px;
         border: 2.3px solid #1762ee;
-        border-radius: 30px;
-        position: relative;
-    }
-
-    div.login-form form {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        position: relative;
     }
 
     div.login-form form span.title {
-        color: #ffffff;
-        font-weight: bold;
         font-size: 23px;
-        position: absolute;
         top: 11.6%;
-        right: 39.567%;
-    }
-
-    div.login-form input {
-        margin: 0;
-        border: 0;
-        padding: 0;
-        outline: none;
+        right: 39.523857%;
     }
 
     div.login-form form div.email {
         width: 240px;
         height: 29px;
-        border-radius: 15px;
-        position: absolute;
-        top: 33.6%;
         right: 15.71%;
     }
     
     div.login-form form div.password {
         width: 240px;
         height: 29px;
-        border-radius: 15px;
-        position: absolute;
-        top: 46.6%;
         right: 15.71%;
     }
     
     div.login-form form div.login {
         width: 145px;
         height: 27px;
-        border-radius: 15px;
-        position: absolute;
-        top: 66.6%;
-        left: 28.57%;
+        left: 29.2857%;
     }
 
     div.login-form form div.email input[type="email"] {
         width: 230px;
         height: 29px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
     }
     
     div.login-form form div.password input[type="password"] {
         width: 230px;
         height: 29px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
     }
     
     div.login-form form div.login input[type="submit"] {
         width: 145px;
         height: 27px;
-        background: #3296af;
-        color: #ffffffe5;
-        font-family: sans-serif;
-        border-radius: 15px;
-        cursor: pointer;
     }
     
     div.login-form form div.login input[type="submit"]:hover {
-        background: #2ebee2;
         width: 150px;
-        position: absolute;
-        left: -1.5%;
-        border: 1px solid #66ece6;
     }
 
     div.login-form div.forgot{
-        width: 123px;
-        height: 17px;
-        position: absolute;
-        top: 83.3%;
-        left: 32.428%;
-    }
-
-    div.login-form div.forgot a {
-        display: block;
-        width: 123px;
-        height: 17px;
-        font-size: 14px;
-        font-family: sans-serif;
-        color: #f1f50b;
-        text-decoration: none;
-    }
-    
-    div.login-form div.forgot a:hover {
-        color: #a2a2e6;
-        text-decoration: none;
+        left: 32.42857%;
     }
 }
 
 
 
 @media (max-width: 369px) {
-    body {
-        background: #3b3bc0;
-        margin: 0;
-        cursor: pointer;
-    }
-
     div.login-form {
-        margin: auto;
-        margin-top: 200px;
-        background: #3916d4;
         width: 310px;
         height: 260px;
         border: 2.3px solid #1762ee;
-        border-radius: 30px;
-        position: relative;
-    }
-
-    div.login-form form {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        position: relative;
     }
 
     div.login-form form span.title {
-        color: #ffffff;
-        font-weight: bold;
         font-size: 22px;
-        position: absolute;
-        top: 11.6%;
-        right: 38.728%;
-    }
-
-    div.login-form input {
-        margin: 0;
-        border: 0;
-        padding: 0;
-        outline: none;
+        right: 38.731%;
     }
 
     div.login-form form div.email {
         width: 240px;
         height: 28px;
-        border-radius: 15px;
-        position: absolute;
-        top: 33.6%;
         left: 12.90%;
     }
     
     div.login-form form div.password {
         width: 240px;
         height: 28px;
-        border-radius: 15px;
-        position: absolute;
-        top: 46.6%;
         left: 12.90%;
     }
     
     div.login-form form div.login {
         width: 145px;
         height: 26px;
-        border-radius: 15px;
-        position: absolute;
-        top: 66.6%;
-        left: 25.806%;
+        left: 26.6129%;
     }
 
     div.login-form form div.email input[type="email"] {
         width: 220px;
         height: 28px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
     }
     
     div.login-form form div.password input[type="password"] {
         width: 220px;
         height: 28px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
     }
     
     div.login-form form div.login input[type="submit"] {
         width: 145px;
         height: 26px;
-        background: #3296af;
-        color: #ffffffe5;
-        font-family: sans-serif;
-        border-radius: 15px;
-        cursor: pointer;
     }
     
     div.login-form form div.login input[type="submit"]:hover {
-        background: #2ebee2;
         width: 150px;
-        position: absolute;
-        left: -1.5%;
-        border: 1px solid #66ece6;
     }
 
     div.login-form div.forgot{
-        width: 123px;
-        height: 17px;
-        position: absolute;
-        top: 83.3%;
-        left: 31.45%;
+        left: 31.4516%;
     }
 
     div.login-form div.forgot a {
-        display: block;
         width: 115px;
-        height: 17px;
         font-size: 13px;
-        font-family: sans-serif;
-        color: #f1f50b;
-        text-decoration: none;
-    }
-    
-    div.login-form div.forgot a:hover {
-        color: #a2a2e6;
-        text-decoration: none;
     }
 }
 
 
-
-@media (max-width: 320px) {
-    body {
-        background: #3b3bc0;
-        margin: 0;
-        cursor: pointer;
-    }
-
-    div.login-form {
-        margin: auto;
-        margin-top: 150px;
-        background: #3916d4;
-        width: 310px;
-        height: 260px;
-        border: 2.3px solid #1762ee;
-        border-radius: 30px;
-        position: relative;
-    }
-
-    div.login-form form {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        position: relative;
-    }
-
-    div.login-form form span.title {
-        color: #ffffff;
-        font-weight: bold;
-        font-size: 22px;
-        position: absolute;
-        top: 11.6%;
-        right: 38.728%;
-    }
-
-    div.login-form input {
-        margin: 0;
-        border: 0;
-        padding: 0;
-        outline: none;
-    }
-
-    div.login-form form div.email {
-        width: 240px;
-        height: 28px;
-        border-radius: 15px;
-        position: absolute;
-        top: 33.6%;
-        left: 12.90%;
-    }
-    
-    div.login-form form div.password {
-        width: 240px;
-        height: 28px;
-        border-radius: 15px;
-        position: absolute;
-        top: 46.6%;
-        left: 12.90%;
-    }
-    
-    div.login-form form div.login {
-        width: 145px;
-        height: 26px;
-        border-radius: 15px;
-        position: absolute;
-        top: 66.6%;
-        left: 25.806%;
-    }
-
-    div.login-form form div.email input[type="email"] {
-        width: 220px;
-        height: 28px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.password input[type="password"] {
-        width: 220px;
-        height: 28px;
-        border-radius: 15px;
-        padding-left: 10px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.login input[type="submit"] {
-        width: 145px;
-        height: 26px;
-        background: #3296af;
-        color: #ffffffe5;
-        font-family: sans-serif;
-        border-radius: 15px;
-        cursor: pointer;
-    }
-    
-    div.login-form form div.login input[type="submit"]:hover {
-        background: #2ebee2;
-        width: 150px;
-        position: absolute;
-        left: -1.5%;
-        border: 1px solid #66ece6;
-    }
-
-    div.login-form div.forgot{
-        width: 123px;
-        height: 17px;
-        position: absolute;
-        top: 83.3%;
-        left: 31.45%;
-    }
-
-    div.login-form div.forgot a {
-        display: block;
-        width: 115px;
-        height: 17px;
-        font-size: 13px;
-        font-family: sans-serif;
-        color: #f1f50b;
-        text-decoration: none;
-    }
-    
-    div.login-form div.forgot a:hover {
-        color: #a2a2e6;
-        text-decoration: none;
-    }
-}
+/* 
+    code by Vazgen Gasparyan
+    Facebook: https://bit.ly/3zhk3PO
+   
+    Thank you!
+*/
