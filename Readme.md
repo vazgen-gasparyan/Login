@@ -1,1 +1,1 @@
-https://vazgen-gasparyan.github.io/log-in/
+https://vazgen-gasparyan.github.io/Login/
